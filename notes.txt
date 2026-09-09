@@ -1,0 +1,4 @@
+For Creating Virtual Environment : python -m venv .venv -> only once per project
+For Activating Virtual Environment : .\.venv\Scripts\Activate
+For installing packages : pip install -r requirements.txt
+For running Streamlit : streamlit run D:\MyProjects\ChatBot\code_1.py
